@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "datamodule.html",
+    "href": "datamodule.html",
+    "title": "Datamodule",
+    "section": "",
+    "text": "The class sets up data loaders for training, validation, and testing phases, supporting different datasets. It reads file lists from CSV files, splits the data into train/val/test sets, and creates appropriate DataLoader objects. The module is flexible and therefore adaptable to various experimental setups.\n\nsource\n\nhellosum\n\n hellosum (a:int, b:int)\n\nA sum function\n\nhellosum(1, 4)\n\n5\n\n\n\nsource\n\n\nhellosum2\n\n hellosum2 (a, b)\n\n\nhellosum2(1, 4)\n\n5",
+    "crumbs": [
+      "Datamodule"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "drmedFM",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "drmedFM"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "drmedFM",
+    "section": "Install",
+    "text": "Install\npip install drmedFM",
+    "crumbs": [
+      "drmedFM"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "drmedFM",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "drmedFM"
+    ]
+  },
+  {
+    "objectID": "dataset.html",
+    "href": "dataset.html",
+    "title": "Dataset",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "Dataset"
+    ]
+  }
+]

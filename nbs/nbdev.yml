@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "drmedFM"
+  site-url: "https://enekocm.github.io/drmedFM"
+  description: "A medical feature matching library"
+  repo-branch: master
+  repo-url: "https://github.com/enekocm/drmedFM"

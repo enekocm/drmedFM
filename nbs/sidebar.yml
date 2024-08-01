@@ -1,0 +1,6 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_Dataset.ipynb
+      - 01_Datamodule.ipynb
